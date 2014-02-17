@@ -28,6 +28,7 @@ namespace logModules {
 static char const* const NOTIFICATION_MODULE_LOG_NAME = "Notification";
 static char const* const CONTROLPANEL_MODULE_LOG_NAME = "ControlPanel";
 static char const* const ONBOARDING_MODULE_LOG_NAME = "Onboarding";
+static char const* const CONFIG_MODULE_LOG_NAME = "Config";
 
 static const uint32_t ALL_LOG_LEVELS = 15;
 } //namespace logModules
