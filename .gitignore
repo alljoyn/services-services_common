@@ -23,4 +23,6 @@ gen
 lib
 local.properties
 obj*
-ios/samples/alljoyn_services_cpp/alljoyn_services_common_cpp.xcodeproj/xcuserdata/
+xcuserdata
+xcshareddata
+
